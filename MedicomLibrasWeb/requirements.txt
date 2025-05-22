@@ -1,0 +1,9 @@
+Jinja2
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+qrcode
+gunicorn
+qrcode[pil]

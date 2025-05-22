@@ -1,0 +1,15 @@
+<!-- Trecho representativo do template do cartão médico -->
+<div class="card-container" id="card-front">
+    <div class="card-title">CARTÃO MÉDICO VIRTUAL</div>
+    <div class="company-name">Medicom Libras</div>
+    <div class="name">{{ record.name }}</div>
+    <div class="info">
+        <span>Data de Nascimento: {{ birth_date }}</span>
+        <span>Tipo Sanguíneo: {{ record.blood_type }}</span>
+    </div>
+    <div class="details">
+        <p>CPF: {{ record.cpf }}</p>
+        <p>Cartão SUS: {{ record.sus_number }}</p>
+        <p>CID: {{ record.cid }}</p>
+    </div>
+</div>

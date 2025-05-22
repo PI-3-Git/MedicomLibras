@@ -1,0 +1,39 @@
+.card-container {
+    width: 650px;
+    height: 350px; 
+    border-radius: 15px;
+    background: linear-gradient(135deg, #1560eb 2%, #ffffff 20%);
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    color: #003366;
+    font-family: Arial, sans-serif;
+    position: relative;
+    margin-bottom: 40px; 
+}
+
+.card-title {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+    .card {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+}
