@@ -6,6 +6,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="main/logo_univesp.png" alt="Logo Univesp"> <img src="main/logoPI.png" alt="Logo PI">
+
 
 > Esta pasta contém arquivos referentes ao desenvolvimento do hardware Leitor de QR Code MedicomLibras.
