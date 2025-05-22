@@ -1,17 +1,18 @@
 # MedicomLibras
 Repositório do projeto MedicomLibras
 
-# regConsumoAgua
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
+<center>
 <img src="logo_univesp.png" alt="Logo Univesp"> 
 <img src="logomedicomlibras.svg" alt="Logo MedicomLibras">
 <img src="logoPI.png" alt="Logo PI">
+</center>
+
 
 > Este é o repositório do Projeto Integrador III da Univesp, elaborado por Bruno S. Souza, Carlos M. S. Cavalcante, Felipe S. Medeiros, Jean C. G. Palácio, Jefferson S. Moraes, Lucas H. A. José, Marques L. Santos e Rodrigo T. Santos.
 
