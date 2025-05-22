@@ -7,18 +7,10 @@ Repositório do projeto MedicomLibras
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-    <div style="text-align: center;">
-      <img src="logo_univesp.png" alt="Logo Univesp"> 
-      <img src="logomedicomlibras.svg" alt="Logo MedicomLibras">
-      <img src="logoPI.png" alt="Logo PI">
-    </div>
 
-
-
-
-
-
-
+<img src="logo_univesp.png" alt="Logo Univesp"> 
+<img src="logomedicomlibras.svg" alt="Logo MedicomLibras">
+<img src="logoPI.png" alt="Logo PI">
 
 
 
